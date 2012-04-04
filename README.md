@@ -2,7 +2,7 @@
 
 express-mock-request is a utility function to make it easy to write tests for Node.JS [Express](https://github.com/visionmedia/express) applications.
 In fact, it was extracted from the Express test-suite [here](https://github.com/visionmedia/express/blob/master/test/support/http.js).  I 
-wanted to use it in my own application and I so I extracted it into this module and removed the [mocha](https://github.com/visionmedia/mocha) specfic testing code.
+wanted to use it in my own application and I so I extracted it into this module and removed the [mocha](https://github.com/visionmedia/mocha) specific testing code.
 
 #### How to use:
 
@@ -50,3 +50,5 @@ exports.testGet = function(test){
   });
 }
 ```
+
+You can see more examples in the express test suite [here](https://github.com/visionmedia/express/tree/master/test/acceptance).
