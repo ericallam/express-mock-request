@@ -1,8 +1,9 @@
 {
-  "author": "Eric Allam <eric@envylabs.com>",
+  "author": "Eric Allam <rubymaverick@gmail.com>",
   "name": "express-mock-request",
   "description": "A Mock Request object to use when testing an express app",
   "version": "0.0.1",
+  "homepage": "https://github.com/rubymaverick/express-mock-request",
   "repository": {
     "url": "https://github.com/rubymaverick/express-mock-request"
   },
