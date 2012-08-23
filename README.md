@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/rubymaverick/express-mock-request.png)](http://travis-ci.org/rubymaverick/express-mock-request)
 ### express-mock-request
 
 express-mock-request is a utility function to make it easy to write tests for Node.JS [Express](https://github.com/visionmedia/express) applications.
